@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshay Pandey</h1>
-<h3 align="center">A passionate FULL STACK WEB DEVELOPER from India</h3>
+<h3 align="center">Hi 👋 My name is Akshay Pandey Passionate Full Stack Web Developer. I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaypandey007&label=Profile%20views&color=0e75b6&style=flat" alt="akshaypandey007" /> </p>
 
