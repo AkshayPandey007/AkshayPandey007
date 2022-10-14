@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1acMkctvzFOSf8CsrUURiPS8D7mre9Xy1/view?usp=sharing](https://drive.google.com/file/d/1acMkctvzFOSf8CsrUURiPS8D7mre9Xy1/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am interesting person**
+- ⚡ Fun fact **Love to play sports and do gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
