@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akshaypandey010@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1EhB3R6HF0ix_9Jw49H3nx0knM_suuap1/view?usp=sharing](https://drive.google.com/file/d/1acMkctvzFOSf8CsrUURiPS8D7mre9Xy1/view?usp=sharing)]
+- 📄 Know about my experiences https://drive.google.com/file/d/1bCJOsQaKA49r5hhzCF0x-6iz6fBczM49/view?usp=sharing
 
 - ⚡ Fun fact **Love to play sports and do gym**
 
